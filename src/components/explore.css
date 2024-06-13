@@ -1,0 +1,35 @@
+html {
+    background-color: 
+    rgba(25, 32, 38, 1);
+}
+.container {
+    margin-left: 150px;
+}
+.explore_header {
+    color: rgba(255, 255, 255, 1);
+    font-size: 32px;
+    font-weight: 600;
+    
+}
+.explore_suggestion{
+    color: rgba(134, 134, 134, 1);
+}
+.explore_describe {
+    width: 30%;
+    position: relative;
+    bottom:150px;
+    left: 50px;
+    background-image: url("/");
+    
+}
+.explore_describe .movie_name {
+    color: rgba(255, 255, 255, 1);
+    font-size: 36px;
+    font-weight: 600;
+}
+.explore_describe .description {
+    color:rgba(255, 255, 255, 1) ;
+    font-size: 16px;
+    font-weight: 400;
+   
+}

@@ -1,0 +1,15 @@
+ /* .movieList_container{
+    display: flex;
+    justify-content: space-between;
+} */
+.movieList_container  {
+    max-width: 150px;
+    max-height: fit-content;
+    gap: 10px;
+}
+.movieList .decsription {
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    z-index: 1;
+}
